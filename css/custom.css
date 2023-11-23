@@ -54,7 +54,7 @@ li + li {
 	border: 0 ;
 }
 #footer .contact p {
-	margin-bottom: 0.25rem ;
+	margin-bottom: 0rem ;
 }
 #footer .contact_tags {
 	display: flex ;
